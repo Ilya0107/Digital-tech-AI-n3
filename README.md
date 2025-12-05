@@ -70,8 +70,9 @@ C --> |НЕТ| E[/Вывод Число нечетно/] --> Z
 Найдем нужный нам контейнер с именем mermaid-live-editor, установим и запустим его:
 <img width="1199" height="52" alt="image" src="https://github.com/user-attachments/assets/d9a9998d-6cfb-477e-9666-164ca6c9fd2c" />
 
-Перейдя по ссылке mermaid откроется на локальном порте 
-<img width="1913" height="1086" alt="image" src="https://github.com/user-attachments/assets/c976eaf1-466a-4d71-affe-ae2968f739ee" />
+Перейдя по ссылке mermaid откроется на локальном порте. Вставим туда наш предыдущий код лдя проверки и получим тот же результат.
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/ff806d37-c653-4a57-8c02-4b5aeabbc99c" />
+
 **Познакомившись с данным способом создания блок схем неплохо бы узнать почему создатели решили выбрать такое необычное название для своего проекта**
 Зададим вопрос одному из чат ботов, который наиболее хорошо показал себя в работе с предыдущими лабораторными работами - Deep Seek
 <img width="1036" height="301" alt="image" src="https://github.com/user-attachments/assets/1cc3150e-bc63-4c2f-826d-b4c50ce83f09" />
