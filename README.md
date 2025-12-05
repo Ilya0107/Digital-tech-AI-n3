@@ -16,9 +16,9 @@
 
 Уфа  2025
 
-### Цель работы: познакомиться с рисованием схем и даиграмм
+### Цель работы: познакомиться с рисованием схем и даиграмм и изучить сопутствующие материалы.
 
-## Ход работы: 
+# Ход работы: 
 
 **Посмотрел ГОСТ рисования блок схем:**
 <img width="974" height="1468" alt="image" src="https://github.com/user-attachments/assets/a10db703-4da9-40a6-8540-256efb298f11" />
@@ -35,7 +35,7 @@
 | **Контекст применения** | Бизнес-анализ, управление процессами (BPM), организационное проектирование. | Программирование, инженерия, математика, объяснение алгоритмов. |
 
 
-### Диаграмма с drawio
+## Диаграмма с drawio
 
 Чтобы вставить диагрмму в файл .MD нужно сохрнаить его формте .svg
 
@@ -45,10 +45,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent; color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="122px" height="252px" viewBox="0 0 122 252" content="&lt;mxfile host=&quot;app.diagrams.net&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36&quot; version=&quot;29.2.2&quot;&gt;&#10;  &lt;diagram name=&quot;Page-1&quot; id=&quot;ctpdQca3ycjqCeiAbs8v&quot;&gt;&#10;    &lt;mxGraphModel dx=&quot;1158&quot; dy=&quot;711&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;827&quot; pageHeight=&quot;1169&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&#10;      &lt;root&gt;&#10;        &lt;mxCell id=&quot;0&quot; /&gt;&#10;        &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&#10;        &lt;mxCell id=&quot;BhV8mAuxKjwOXms5wpue-1&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;BhV8mAuxKjwOXms5wpue-2&quot; style=&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;&quot; target=&quot;BhV8mAuxKjwOXms5wpue-4&quot; value=&quot;&quot;&gt;&#10;          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;&#10;        &lt;/mxCell&gt;&#10;        &lt;mxCell id=&quot;BhV8mAuxKjwOXms5wpue-2&quot; parent=&quot;1&quot; style=&quot;strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;&quot; value=&quot;НАЧАЛО&quot; vertex=&quot;1&quot;&gt;&#10;          &lt;mxGeometry height=&quot;60&quot; width=&quot;120&quot; x=&quot;270&quot; y=&quot;130&quot; as=&quot;geometry&quot; /&gt;&#10;        &lt;/mxCell&gt;&#10;        &lt;mxCell id=&quot;BhV8mAuxKjwOXms5wpue-3&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;BhV8mAuxKjwOXms5wpue-4&quot; style=&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;&quot; target=&quot;BhV8mAuxKjwOXms5wpue-5&quot; value=&quot;&quot;&gt;&#10;          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;&#10;        &lt;/mxCell&gt;&#10;        &lt;mxCell id=&quot;BhV8mAuxKjwOXms5wpue-4&quot; parent=&quot;1&quot; style=&quot;rounded=0;whiteSpace=wrap;html=1;&quot; value=&quot;Середина&quot; vertex=&quot;1&quot;&gt;&#10;          &lt;mxGeometry height=&quot;60&quot; width=&quot;120&quot; x=&quot;270&quot; y=&quot;230&quot; as=&quot;geometry&quot; /&gt;&#10;        &lt;/mxCell&gt;&#10;        &lt;mxCell id=&quot;BhV8mAuxKjwOXms5wpue-5&quot; parent=&quot;1&quot; style=&quot;strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;&quot; value=&quot;КОНЕЦ&quot; vertex=&quot;1&quot;&gt;&#10;          &lt;mxGeometry height=&quot;60&quot; width=&quot;120&quot; x=&quot;270&quot; y=&quot;320&quot; as=&quot;geometry&quot; /&gt;&#10;        &lt;/mxCell&gt;&#10;      &lt;/root&gt;&#10;    &lt;/mxGraphModel&gt;&#10;  &lt;/diagram&gt;&#10;&lt;/mxfile&gt;&#10;"><defs/><g><g data-cell-id="0"><g data-cell-id="1"><g data-cell-id="BhV8mAuxKjwOXms5wpue-1"><g transform="translate(0.5,0.5)"><path d="M 61 61 L 61 94.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/><path d="M 61 99.88 L 57.5 92.88 L 61 94.63 L 64.5 92.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/></g></g><g data-cell-id="BhV8mAuxKjwOXms5wpue-2"><g><path d="M 37.73 1 L 84.27 1 C 104.55 1 121 14.43 121 31 C 121 47.57 104.55 61 84.27 61 L 37.73 61 C 17.45 61 1 47.57 1 31 C 1 14.43 17.45 1 37.73 1 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/></g><g><g><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 31px; margin-left: 2px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><path d="M 61 189.88 L 57.5 182.88 L 61 184.63 L 64.5 182.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/></g></g><g data-cell-id="BhV8mAuxKjwOXms5wpue-4"><g transform="translate(0.5,0.5)"><rect x="1" y="101" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/></g><g><g><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 131px; margin-left: 2px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; "><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
 
-### Диаграмма mermaid
+## Диаграмма mermaid
 После сохранения диагарммы в разных форматах сразу заметно, что качество .svg файла значительно выше, чем аналогичного файла в .png.
 Скопировав изображение и вставив его в файл .md оно отображается корректно без нужды скачиавания файла..
 Но еще легче просто втавить код тогда изображение можно будет двигать и настроить под себя.
+
 ***КОД:***
 ```
 flowchart TD
@@ -65,6 +66,54 @@ flowchart TD
    C{x % 2 == 0} --> |ДА| D[/Вывод число четно/] --> Z([Конец])
 C --> |НЕТ| E[/Вывод Число нечетно/] --> Z
 ```
+### Docker + mermaid 
+Найдем нужный нам контейнер с именем mermaid-live-editor, установим и запустим его:
+<img width="1199" height="52" alt="image" src="https://github.com/user-attachments/assets/d9a9998d-6cfb-477e-9666-164ca6c9fd2c" />
+
+Перейдя по ссылке mermaid откроется на локальном порте 
+<img width="1913" height="1086" alt="image" src="https://github.com/user-attachments/assets/c976eaf1-466a-4d71-affe-ae2968f739ee" />
+**Познакомившись с данным способом создания блок схем неплохо бы узнать почему создатели решили выбрать такое необычное название для своего проекта**
+Зададим вопрос одному из чат ботов, который наиболее хорошо показал себя в работе с предыдущими лабораторными работами - Deep Seek
+<img width="1036" height="301" alt="image" src="https://github.com/user-attachments/assets/1cc3150e-bc63-4c2f-826d-b4c50ce83f09" />
+И получим такой ответ:
+```
+1. Метафора «погружения в код»
+Русалка — существо, свободно живущее в двух стихиях: на границе воздуха (мира людей/логики) и воды (глубинного, часто хаотичного мира).
+
+Mermaid (библиотека) позволяет разработчику жить в двух мирах: в мире кода/текста (как в воде — гибко, мощно, но линейно) и в мире визуальных диаграмм (как на воздухе — структурно, ясно, для коммуникации).
+
+Вы «ныряете» в свой код, пишете текстовое описание, а Mermaid «выныривает» на поверхность с красивой, понятной диаграммой.
+
+2. Связь с мифологией и соблазном
+В мифах русалки/сирены заманивали моряков своим пением. Mermaid «заманивает» разработчиков простотой и элегантностью: «Забудьте о сложных интерфейсах перетаскивания. Просто спойте мне (напишите) свою историю в виде текста, и я покажу вам её визуально».
+
+Это обещание магии и превращения (из текста в картинку) — почти как волшебное существо.
+
+3. Ассоциация с морем, картами и навигацией
+Русалки — морские обитатели.
+
+Исторически диаграммы и блок-схемы — это карты для навигации по сложным системам, алгоритмам и процессам. Они помогают не «заблудиться» в коде.
+
+Mermaid, как русалка-проводник, помогает нарисовать карту вашей логики и безопасно провести по ней других разработчиков (или вас самого в будущем).
+
+4. Техническая эстетика и краткость
+Само слово Mermaid — короткое, звучное, легко запоминается, не имеет негативных коннотаций. Оно визуально привлекательно, что важно для инструмента, связанного с визуализацией.
+
+Оно хорошо вписывается в традицию называть технологии именами существ или мифологических персонажей (например, Python, Django, Kubernetes (рулевой), Apache и т.д.).
+
+5. Игра слов и скрытый смысл
+MERmaid. Можно провести параллель с MERge (объединять) или просто увидеть в этом корень, связанный с морем (marine). Mermaid объединяет текст и графику.
+
+В некоторых культурах русалка — символ гибкости, текучести и адаптации. Диаграммы Mermaid именно такие: вы можете легко изменить код, и диаграмма гибко подстроится под новые условия, «перетечёт» в новую форму.
+
+Противопоставление существующим инструментам
+До Mermaid создание диаграмм часто было тяжелым: GUI-редакторы (вроде Visio, Draw.io), где нужно перетаскивать фигуры. Это «сухопутный», механический труд. Mermaid предлагает «морской» путь: потоковый, естественный для программиста — писать текст. Это как дышать под водой, когда все остальные плавают на поверхности.
+```
+
+## Mind map
+
+
+
 
 
 
