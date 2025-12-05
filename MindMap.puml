@@ -1,52 +1,64 @@
 @startmindmap
 <style>
 mindmapDiagram {
-  .red {
-    BackgroundColor lightcoral
+  node {
+    BackgroundColor white
+    BorderColor black
   }
-  .blue {
-    BackgroundColor lightblue
+  :depth(0) {
+    BackgroundColor #6699FF
+    FontSize 20
+    FontColor white
   }
-  .green {
-    BackgroundColor lightgreen
+  :depth(1) {
+    BackgroundColor #FF9999
+    FontSize 16
+  }
+  :depth(2) {
+    BackgroundColor #FFFF99
+    FontSize 14
+  }
+  :depth(3) {
+    BackgroundColor #99FF99
+    FontSize 12
   }
 }
 </style>
 
-*[#lightblue] Аналитика данных
-**[#lightcoral] Hard Skills
-***[#lightcoral] <&code> Программирование
+* Аналитика данных
+** Hard Skills
+*** Программирование
 **** Python (pandas, numpy)
 **** R
 **** SQL
 **** Bash/Shell
-***[#lightcoral] <&calculator> Статистика
+*** Статистика
 **** Описательная статистика
 **** Проверка гипотез
 **** A/B тестирование
 **** Регрессионный анализ
-***[#lightcoral] <&graph> Визуализация
+*** Визуализация
 **** Tableau
 **** Power BI
 **** Matplotlib/Seaborn
 **** Plotly
-***[#lightcoral] <&brain> Machine Learning
+*** Machine Learning
 **** Классификация
 **** Кластеризация
 **** NLP
 **** Рекомендательные системы
-***[#lightcoral] <&server> Инфраструктура
+*** Инфраструктура
 **** Базы данных
 **** ETL/ELT
 **** Docker
 **** Git
-**[#lightgreen] Soft Skills
-***[#lightgreen] <&people> Коммуникация
-***[#lightgreen] <&bulb> Критическое мышление
-***[#lightgreen] <&check> Решение проблем
-***[#lightgreen] <&briefcase> Работа с stakeholders
-**[#gold] Доменная экспертиза
-***[#gold] <&trend-up> Бизнес-метрики
-***[#gold] <&process> Понимание процессов
-***[#gold] <&book> Отраслевые знания
+** Soft Skills
+*** Коммуникация
+*** Критическое мышление
+*** Решение проблем
+*** Работа с stakeholders
+** Доменная экспертиза
+*** Бизнес-метрики
+*** Понимание процессов
+*** Отраслевые знания
 @endmindmap
