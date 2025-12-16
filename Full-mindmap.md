@@ -25,8 +25,6 @@
 **** ETL/ELT
 **** Docker
 **** Git
-
-
 left side 
 ** Функции
 *** Сбор и подготовка данных
@@ -35,10 +33,10 @@ left side
 *** Ответы на бизнес-вопросы
 *** Прогнозирование и моделирование
 *** Автоматизация процессов
+@endmindmap
 ```
 <img width="1331" height="1034" alt="image" src="https://github.com/user-attachments/assets/d5551d44-7cc2-410e-9258-dbf38ace6221" />
 
 
 
-@endmindmap
-```
+
