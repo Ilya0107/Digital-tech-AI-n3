@@ -66,7 +66,12 @@ flowchart TD
    C{x % 2 == 0} --> |ДА| D[/Вывод число четно/] --> Z([Конец])
 C --> |НЕТ| E[/Вывод Число нечетно/] --> Z
 ```
-### Docker + mermaid 
+## Google Colab MD: 
+<img width="951" height="867" alt="image" src="https://github.com/user-attachments/assets/5c3a6d80-7024-422c-87cb-06aafc1f0699" />
+
+<img width="598" height="500" alt="image" src="https://github.com/user-attachments/assets/1d78930f-9236-41cd-9971-e02a80ab65ff" />
+
+## Docker + mermaid 
 Найдем нужный нам контейнер с именем mermaid-live-editor, установим и запустим его:
 <img width="1199" height="52" alt="image" src="https://github.com/user-attachments/assets/d9a9998d-6cfb-477e-9666-164ca6c9fd2c" />
 
